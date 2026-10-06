@@ -18,8 +18,8 @@ public:
             return 0;
         if(root->left == NULL && root->right == NULL)
             return 1;
-        int l = maxDepth(root->left);
-        int r = maxDepth(root->right);
+        int l = max_height(root->left);
+        int r = max_height(root->right);
         
         return max(l,r)+1;
     }
