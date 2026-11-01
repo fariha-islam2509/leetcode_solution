@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0463-island-perimeter) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0463-island-perimeter) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
