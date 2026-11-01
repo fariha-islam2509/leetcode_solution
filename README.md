@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/fariha-islam2509/leetcode_solution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/fariha-islam2509/leetcode_solution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/fariha-islam2509/leetcode_solution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/fariha-islam2509/leetcode_solution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -123,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/fariha-islam2509/leetcode_solution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
