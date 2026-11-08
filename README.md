@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0841-keys-and-rooms) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0841-keys-and-rooms) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -152,4 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
