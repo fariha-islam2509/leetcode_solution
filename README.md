@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
