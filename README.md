@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1020-number-of-enclaves) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1020-number-of-enclaves) |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0743-network-delay-time) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
