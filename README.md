@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1020-number-of-enclaves) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1020-number-of-enclaves) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0841-keys-and-rooms) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -173,4 +176,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/fariha-islam2509/leetcode_solution/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
