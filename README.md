@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
+| [1765-map-of-highest-peak](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/fariha-islam2509/leetcode_solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
+| [1765-map-of-highest-peak](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/fariha-islam2509/leetcode_solution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1254-number-of-closed-islands) |
+| [1765-map-of-highest-peak](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/fariha-islam2509/leetcode_solution/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/fariha-islam2509/leetcode_solution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
